@@ -46,6 +46,8 @@ public class Test {
 		System.out.println(list1.remove(1));
 		System.out.println(list1);
 		System.out.println("Привет мир!");
+		
+		System.out.println("Привет мир Олег!");
 
 	}
 
