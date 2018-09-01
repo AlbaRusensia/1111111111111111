@@ -45,9 +45,10 @@ public class Test {
 		System.out.println(list1.containsKey(1));
 		System.out.println(list1.remove(1));
 		System.out.println(list1);
-		System.out.println("Привет мир!");
+		System.out.println("пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ!");
 		
-		System.out.println("Привет мир Олег!");
+		System.out.println("пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅ!");
+		System.out.println("пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅ!");
 
 	}
 
